@@ -39,6 +39,7 @@ function printerError(s) {
 # Education
 * Donetsk National Technical University
     * Faculty of Computer Science and Technology
+    * Specialty: modeling and design
 # Languages
 * Russian 
 * Franch
