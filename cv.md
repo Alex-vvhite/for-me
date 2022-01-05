@@ -4,7 +4,7 @@
 * +380999617207
 * xodyrev.aleksej42@gmail.com
 * t.me/Training_addist
-* Instagram (@khodyrev_12)
+* 
 # About Me
 I am 20 years old, I am studying.
 I was previously interested in creating sites from pure 0, so I chose this direction. At the university, the bias is more on the visual component, but I want to write the site's functionality. Friends suggested your course, which immediately looked different from others. I am sure I will be able to gain experience and create my first works together with your unique method of leading students.
@@ -44,3 +44,4 @@ function printerError(s) {
 * Russian 
 * Franch
 * English (basic)
+* Ukranian
