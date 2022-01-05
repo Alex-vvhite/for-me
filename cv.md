@@ -34,7 +34,6 @@ function printerError(s) {
   return result
   
 }
-
 ```
 # Education
 * Donetsk National Technical University
